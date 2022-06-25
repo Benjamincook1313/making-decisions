@@ -133,8 +133,8 @@ let z = 5;
 //CODE HERE
 
 while(z > 0){
-  for(let i=0; i>0; i--){
-    console.log(1)
+  for(let i=z; i>0; i--){
+    console.log(i)
   }
   z -= 1
 };
